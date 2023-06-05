@@ -1,1 +1,1 @@
-# laboratorio_git
+# laboratorio git modificable segun lo necesites
